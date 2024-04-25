@@ -1,0 +1,16 @@
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/controller/concrete/impl/DoAuth.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/controller/concrete/impl/GoToRegistrationPage.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/controller/concrete/impl/GoToAuthPage.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/controller/concrete/NoSuchCommand.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/bean/AuthInfo.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/controller/concrete/Command.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/controller/concrete/impl/GoToStartPage.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/bean/UserRegInfo.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/controller/concrete/impl/GoToMainPage.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/bean/News.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/controller/Controller.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/controller/concrete/CommandProvider.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/controller/concrete/CommandName.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/controller/concrete/impl/DoRegistration.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/bean/User.java
+/Users/dwightjoker/eclipse-workspace/web-lesson6-hw3-maven/src/main/java/edu/web/logic/LogicStub.java
